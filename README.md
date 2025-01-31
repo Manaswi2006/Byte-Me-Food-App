@@ -1,5 +1,5 @@
 # Byte-Me-Food-App
-"Byte Me!" is a CLI-based food ordering system designed for college canteens, enabling students to browse menus, place orders, and track deliveries from their hostel rooms. The system also allows canteen staff to manage menu items and process orders efficiently, while maintaining order histories for easy access.
+"Byte Me!" is a GUI-based food ordering system designed for college canteens, enabling students to browse menus, place orders, and track deliveries from their hostel rooms. The system also allows canteen staff to manage menu items and process orders efficiently, while maintaining order histories for easy access.
 
 This document provides an overview of the classes, exceptions, and interfaces used in the OSystem. The system allows users to manage their orders efficiently, handle menu items, and provide a seamless shopping experience.
 
